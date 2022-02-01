@@ -1,0 +1,16 @@
+body
+{
+    background: cover;
+}
+
+.heading
+{  
+    width: 100%;
+    font-size: 30px;
+}
+
+.anchorl
+{
+    width: 50%;
+    border-radius: 10px;
+}
